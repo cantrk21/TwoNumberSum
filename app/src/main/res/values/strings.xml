@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TwoNumberSum</string>
+    <string name="sayi1">BURAYA BIR SAYI GIRINIZ</string>
+    <string name="sayi2">BURAYA BIR SAYI GIRINIZ</string>
+    <string name="button">SUM</string>
+    <string name="result">RESULT WİLL BE SHOWN HERE</string>
+
+
+</resources>
